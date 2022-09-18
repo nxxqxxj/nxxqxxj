@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## A random song?
+
+<img src="https://api-rnd-sxng.herokuapp.com/api/v1/rndsxng" />
+
 <!--
 **nxxqxxj/nxxqxxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
