@@ -3,7 +3,7 @@
 ## A random song?
 
 <p align="center">
-        <img src="https://api-rnd-sxng.herokuapp.com/api/v1/rndsxng"/>
+        <image herf="https://api-rnd-sxng.herokuapp.com/api/v1/rndsxng"/>
 </p>
 
 <!--
